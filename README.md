@@ -19,7 +19,7 @@ In this repository, you will find the following files and folders:
 Finally, to conclude, respectively to the requirements, it can be said that the work performed within this study has been principally constructed around **Scikit-Learn** (https://scikit-learn.org), the free (and popular) software machine learning library for the Python programming language.
 
 <p align="center">
-  <img src="images/airbnb_logo.png" width="100" />
-  <img src="images/airbnb_banner.png" width="200" /> 
-  <img src="images/kaggle_logo.png" width="100" />
+  <img src="images/airbnb_logo.png" width="250" />
+  <img src="images/airbnb_banner.png" width="600" /> 
+  <img src="images/kaggle_logo.png" width="250" />
 </p>
