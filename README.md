@@ -1,8 +1,8 @@
 # Airbnb New Users First Booking Country
 
-This study corresponds to the fifth and last project of the nanodegree *Machine Learning Engineer*, schooled by **Udacity, Inc.** (https://eu.udacity.com), a for-profit educational organization offering massive open online courses.
+This study corresponds to the fifth (and the last) project of the nanodegree *Machine Learning Engineer*, schooled by **Udacity, Inc.** (https://eu.udacity.com), a for-profit educational organization offering massive open online courses.
 
-For this capstone project, students were allowed to choose the study of their choice, and here, a challenge proposed through **Kaggle** (https://www.kaggle.com) by **Airbnb** (https://www.airbnb.com) in 2016 is going to be studied: [Airbnb New User Bookings: Where will a new guest book his first travel experience?](https://www.kaggle.com/c/airbnb-recruiting-new-user-bookings).
+For this capstone project, students were allowed to choose the study of their choice, and here, a challenge proposed through **Kaggle** (https://www.kaggle.com) by **Airbnb** (https://www.airbnb.com) in 2016 is going to be studied: [Airbnb New User Bookings, where will a new guest book his first travel experience?](https://www.kaggle.com/c/airbnb-recruiting-new-user-bookings)
 
 The goal of this challenge was to help the company to predict where a new user will book his first travel experience: Indeed, at the time of the challenge, new users had the possibility to book a place to stay in more than 34,000 cities located across more than 190 countries, and, thus, solving this problem could help Airbnb sharing more personalized content with its community, decreasing the average time to first booking, and allowing a better forecast demand.
 
@@ -17,3 +17,9 @@ In this repository, you will find the following files and folders:
 *Nota Bene:* Due to the weight of the files they contain, the folders *data* and *models*, mentioned in the Jupyter notebooks, are not provided here.
 
 Finally, to conclude, respectively to the requirements, it can be said that the work performed within this study has been principally constructed around **Scikit-Learn** (https://scikit-learn.org), the free (and popular) software machine learning library for the Python programming language.
+
+<p align="center">
+  <img src="images/airbnb_logo.png" />
+  <img src="images/airbnb_banner.png" /> 
+  <img src="images/kaggle_logo.png" />
+</p>
