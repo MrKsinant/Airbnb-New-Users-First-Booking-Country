@@ -7,7 +7,7 @@ For this capstone project, students were allowed to choose the study of their ch
 The goal of this challenge was to help the company to predict where a new user will book his first travel experience: Indeed, at the time of the challenge, new users had the possibility to book a place to stay in more than 34,000 cities located across more than 190 countries, and, thus, solving this problem could help Airbnb sharing more personalized content with its community, decreasing the average time to first booking, and allowing a better forecast demand.
 
 In this repository, you will find the following files and folders:
-* The file ***airbnb-first-booking-country.pdf***, the complete, detailed and explained study report, accompanied by the results obtained;
+* The file ***airbnb-new-users-first-booking-country.pdf***, the complete, detailed and explained study report, accompanied by the results obtained;
 * The file *airbnb-environment.yml*, the Conda environment file, with all packages and versions, to reproduce the work performed during this project;
 * The folder *graphs*, which contains all the graphs obtained during the study;
 * The folder *images*, which contains the images used to illustrate the challenge (the original version of these images can be found at Kaggle's challenge presentation page---the link has been provided above);
@@ -19,7 +19,7 @@ In this repository, you will find the following files and folders:
 Finally, to conclude, respectively to the requirements, it can be said that the work performed within this study has been principally constructed around **Scikit-Learn** (https://scikit-learn.org), the free (and popular) software machine learning library for the Python programming language.
 
 <p align="center">
-  <img src="images/airbnb_logo.png" />
-  <img src="images/airbnb_banner.png" /> 
-  <img src="images/kaggle_logo.png" />
+  <img src="images/airbnb_logo.png" width="100" />
+  <img src="images/airbnb_banner.png" width="200" /> 
+  <img src="images/kaggle_logo.png" width="100" />
 </p>
