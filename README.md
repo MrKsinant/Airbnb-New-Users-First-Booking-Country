@@ -20,6 +20,6 @@ Finally, to conclude, respectively to the requirements, it can be said that the 
 
 <p align="center">
   <img src="images/airbnb_logo.png" width="150" />
-  <img src="images/airbnb_banner.png" width="600" /> 
+  <img src="images/airbnb_banner.png" width="400" /> 
   <img src="images/kaggle_logo.png" width="150" />
 </p>
