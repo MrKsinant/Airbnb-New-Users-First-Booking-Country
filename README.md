@@ -10,7 +10,7 @@ In this repository, you will find the following files and folders:
 * The file ***airbnb-new-users-first-booking-country.pdf***, the complete, detailed and explained study report, accompanied by the results obtained;
 * The file *airbnb-environment.yml*, the Conda environment file, with all packages and versions, to reproduce the work performed during this project;
 * The folder *graphs*, which contains all the graphs obtained during the study;
-* The folder *images*, which contains the images used to illustrate the challenge (the original version of these images can be found at Kaggle's challenge presentation page---the link has been provided above);
+* The folder *images*, which contains the images used to illustrate the challenge (the original version of these images can be found at Kaggle's challenge presentation page-the link has been provided above);
 * The folder ***notebooks***, which contains all the Jupyter notebooks used to tackle the problem exposed in the challenge;
 * The folder *report*, which contains all the LaTeX sources used to produce the study report.
 
